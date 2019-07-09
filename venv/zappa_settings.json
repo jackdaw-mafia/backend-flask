@@ -1,0 +1,10 @@
+{
+    "testhello": {
+        "app_function": "test.app",
+        "aws_region": "us-east-2",
+        "profile_name": "miraematt",
+        "project_name": "venv",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-bav5wbev5"
+    }
+}
