@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-east-2",
+        "profile_name": "miraematt",
+        "project_name": "backend-flask",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-ptdz727tz"
+    }
+}
